@@ -17,7 +17,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/nxlong1103/x-ui-eng/master/ins
 ```
 
 ## Manually install and upgrade
-1. First download the latest zipped package from https://github.com/nxlong1103/x-ui/releases, usually choose `amd64` architecture
+1. First download the latest zipped package from https://github.com/nxlong1103/x-ui-eng/releases, usually choose `amd64` architecture
 2. Then upload the zipped package to the `/root/` directory of the server and use the user `root` to login to the server
 
 > If your server cpu architecture is not `amd64`, replace `amd64` in the command with another architecture
