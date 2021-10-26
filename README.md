@@ -2,14 +2,14 @@
 Multi-protocol and multi-user xray console support
 
 # Featured
--System status monitoring
--Support multi-user and multi-protocol, website visualization operation
--Protocols supported: vmess, vless, trojan, shadowsocks, dokodemo-door, socks, http
--Support to configure more transmission profiles
--Traffic statistics, traffic limit, expiration time limit
--Customizable xray configuration template
--Support https access control panel (bring your own domain name + ssl certificate)
--More advanced configuration items, see control panel for details
+- System status monitoring
+- Support multi-user and multi-protocol, website visualization operation
+- Protocols supported: vmess, vless, trojan, shadowsocks, dokodemo-door, socks, http
+- Support to configure more transmission profiles
+- Traffic statistics, traffic limit, expiration time limit
+- Customizable xray configuration template
+- Support https access control panel (bring your own domain name + ssl certificate)
+- More advanced configuration items, see control panel for details
 
 # Install & Upgrade
 ```
